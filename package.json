@@ -2,10 +2,10 @@
   "name": "project-js-web-anonymous",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://YanLozovskyi.github.io/project-js-web-anonymous",
+  "homepage": "https://GoitStudentsWorks.github.io/js_79_YanLozovskyi",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-js-web-anonymous/"
+    "build": "parcel build src/*.html --public-url /js_79_YanLozovskyi/"
   },
   "repository": {
     "type": "git",
